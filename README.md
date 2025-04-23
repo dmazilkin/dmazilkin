@@ -6,7 +6,7 @@
   - Bachelor's degree: **Mechatronics**, Brno University of Technolody, 2021-2024.
   - Master's degree: **Applied Informatics**, Brno University of Technolody, 2024-2026.
 
-⚙️ **Specializations**:
+🦾 **Specializations**:
   - Embedded systems,
   - Machine Learning, Deep Learning, Data Science.
 
