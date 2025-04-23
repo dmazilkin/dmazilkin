@@ -1,6 +1,6 @@
 # Hi, I'm Dmitrii 👋
 
-## 🧑‍💻 About me
+## About me
 
 - 👨‍🎓 **Education**:
   - Bachelor's degree: BUT, Mechatronics, 2021-2024.
