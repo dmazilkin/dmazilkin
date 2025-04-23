@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Dmitrii 👋
 
-<!--
-**ibnsaud/ibnsaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student / Embedded Engineer / Actively learning ML and DS 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About me
+
+- 👨‍🎓 Bachelor's degree: BUT, Mechatronics, 2021-2024.
+- 🎓 Master's degree: BUT, Applied Informatics, 2024-2026.
+- 🌍 Now I live and study in the Czech Republic.
+- ⚙️ Specialization:
+  - Embedded systems,
+  - Machine Learning,
+  - Deep Learning,
+  - Data Science.
+
+---
+
+## 💻 Technology and stack
+
+### Programming languages:
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+
+### ⚙️ Embedded systems:
+- **Boards**:
+  - STM32,
+  - Rasberry Pi,
+  - BeagleBone Black.
+- **Operating systems**:
+  - FreeRTOS,
+  - Embedded Linux.
+- **Low-level Programming**:
+  - HAL,
+  - Bare Metal.
+- **Peripherals**:
+  - ADC / DAC,
+  - UART / USB / SPI / I2C.
+- **Transmit Protocols**:
+  - Serialization: JSON, XML, Protocol Buffers.
+  - Data transfer control: HDLC.
+- CMake / Makefile,
+- Unit tests with Unity framework,
+- MISRA,
+- Product Line Engineering,
+
+### 🤖 Machine Learning, Deep Learning and Data Science:
+- **Data Science**:
+  - Data Exploration,
+  - Data Preparation,
+  - Libraries: numpy, pandas, matplotlib, seaborn.
+- **Machine Learning Algorithms**:
+  - Regression: LinReg, LogReg.
+  - Classification: kNN, Decision Tree.
+  - Clustering: kMeans, SOM.
+  - Libraries: scikit-learn.
+- **Deep Learning Algorithms**:
+  - Perceptron, MLP.
+  - CNN, RNN.
+  - Libraries: Keras, TensorFlow.
+- **Metrics**:
+  - Regression: MSE, MAE, MAPE, R2.
+  - Classification: Presicion, Recall, Precision-Recall Curve, F2Score.
+- **Deployment**:
+  - libraries: requests, json, asyncio.
+  - Web Frameworks: FastAPI, Flask.
+---
+
+## 📫 Contacts
+
+- [Linkedin](https://www.linkedin.com/in/dmitrii-mazilkin-866807337/)
