@@ -3,8 +3,8 @@
 ## About me
 
 👨‍🎓 **Education**:
-  - Bachelor's degree: **Mechatronics**, Brno University of Technolody, 2021-2024.
-  - Master's degree: **Applied Informatics**, Brno University of Technolody, 2024-2026.
+  - Bachelor's degree: **Mechatronics**, Brno University of Technology, 2021-2024.
+  - Master's degree: **Applied Informatics**, Brno University of Technology, 2024-2026.
 
 🦾 **Specializations**:
   - Embedded systems,
