@@ -52,7 +52,7 @@
 🇨🇿 Brno, Czech Republic.
 🗓️ February 2025 — Present.
 
-- R&D in **Product Line Engineering (PLE)** following the **V-model** development process.  
+- R&D in **Product Line Engineering** following the **V-model** development process.  
 - Development of **Feature Models** and **Variants** using **pure::variants** and **Eclipse**.
 - Integration of **IBM DOORS Next** and **IBM ELM RM** to automate the flow of requirements into variant models.  
 - Automation of configurations via **pure::variants JavaScript API**, **Eclipse console**, **CMake**, **Makefile** and **Python**.  
@@ -64,7 +64,7 @@
 
 #### Function Approximation and Deployment with Neural Network – Regression
 Trained a neural network to approximate a mathematical function using synthetic data.  
-Saved the model in **.keras** format and preprocessing parameters in **JSON** for loading model.
+Saved the model and preprocessing parameters in **JSON** for loading model.
 Deployed the model with **FastAPI** and **Uvicorn**, exposing a REST API for predictions. 
 Evaluated the model's performance using **MSE**, **MAE** and **R²** metrics.
 
@@ -72,7 +72,7 @@ Evaluated the model's performance using **MSE**, **MAE** and **R²** metrics.
 
 #### Medical Data Classification with Neural Network - Binary Classification
 Built and trained a binary classifier using **Keras** on a medical dataset.  
-Saved the model (**.keras**) and preprocessing parameters to **JSON** for loading and using pretrained model for inference.
+Saved the model and preprocessing parameters to **JSON** for loading and using pretrained model for inference.
 Evaluated the model's performance using **Accuracy**, **Precision**, **Recall**, **F2Score** and **Precision-Recall Curve** metrics.
 
 [🔗 GitHub Repo](https://github.com/ibnsaud/NN-Binary-Classification)
