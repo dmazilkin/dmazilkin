@@ -70,7 +70,7 @@ Evaluated the model's performance using **MSE**, **MAE** and **R²** metrics.
 
 [🔗 GitHub Repo](https://github.com/ibnsaud/NN-Regression-WebApp)
 
-#### Medical Data Classification with Neural Network**  
+#### Medical Data Classification with Neural Network
 Built and trained a binary classifier using **Keras** on a medical dataset.  
 Saved the model (**.keras**) and preprocessing parameters to **JSON** for loading and using pretrained model for inference.
 Evaluated the model's performance using **Precision**, **Recall**, **F2Score** and **Precision-Recall Curve** metrics.
