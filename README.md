@@ -3,8 +3,8 @@
 ## About me
 
 - 👨‍🎓 **Education**:
-  - Bachelor's degree: BUT, Mechatronics, 2021-2024.
-  - Master's degree: BUT, Applied Informatics, 2024-2026.
+  - Bachelor's degree: 🇨🇿BUT, Mechatronics, 2021-2024.
+  - Master's degree: 🇨🇿BUT, Applied Informatics, 2024-2026.
 - ⚙️ **Specializations**:
   - Embedded systems,
   - Machine Learning,
