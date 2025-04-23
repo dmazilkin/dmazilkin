@@ -10,7 +10,7 @@
   - Embedded systems,
   - Machine Learning, Deep Learning, Data Science.
 
-## 🦾 Tech stack
+## Tech stack
 
 ### Embedded systems:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
