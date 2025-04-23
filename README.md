@@ -1,9 +1,5 @@
 # Hi, I'm Dmitrii 👋
 
-🎓 Student / Embedded Engineer / Actively learning ML and DS 
-
----
-
 ## 🧑‍💻 About me
 
 - 👨‍🎓 **Education**:
