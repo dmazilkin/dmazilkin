@@ -38,9 +38,12 @@
 - **Transmit Protocols**:
   - Serialization: JSON, XML, Protocol Buffers.
   - Data transfer control: HDLC.
-- CMake / Makefile,
-- Unit tests with Unity framework,
-- MISRA,
+- **Build Systems**:
+  - CMake,
+  - Makefile,
+  - Buildroot.
+- Writing unit tests with Unity test framework,
+- Firmware and Software development in accordance with MISRA rules,
 - Product Line Engineering,
 
 ### 🤖 Machine Learning, Deep Learning and Data Science:
