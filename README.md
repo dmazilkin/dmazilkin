@@ -73,7 +73,7 @@ Evaluated the model's performance using **MSE**, **MAE** and **R²** metrics.
 #### Medical Data Classification with Neural Network - Binary Classification
 Built and trained a binary classifier using **Keras** on a medical dataset.  
 Saved the model (**.keras**) and preprocessing parameters to **JSON** for loading and using pretrained model for inference.
-Evaluated the model's performance using **Precision**, **Recall**, **F2Score** and **Precision-Recall Curve** metrics.
+Evaluated the model's performance using **Accuracy**, **Precision**, **Recall**, **F2Score** and **Precision-Recall Curve** metrics.
 
 [🔗 GitHub Repo](https://github.com/ibnsaud/NN-Binary-Classification)
 
