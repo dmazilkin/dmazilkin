@@ -26,7 +26,7 @@
 
 
 ### ⚙️ Embedded systems:
-- **Boards**:
+- **Platforms**:
   - STM32,
   - Rasberry Pi,
   - BeagleBone Black.
