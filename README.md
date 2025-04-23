@@ -6,11 +6,10 @@
 
 ## 🧑‍💻 About me
 
-- 👨‍🎓 Educatino:
+- 👨‍🎓 **Education**:
   - Bachelor's degree: BUT, Mechatronics, 2021-2024.
   - Master's degree: BUT, Applied Informatics, 2024-2026.
-- 🇨🇿 I'm currently living and studying in the Czech Republic, Brno.
-- ⚙️ Specializations:
+- ⚙️ **Specializations**:
   - Embedded systems,
   - Machine Learning,
   - Deep Learning,
