@@ -60,7 +60,7 @@
 
 ---
 
-  ### 🛠️ Personal Projects
+  ### 👨‍💻 Personal Projects
 
 #### Function Approximation and Deployment with Neural Network – Regression
 Trained a neural network to approximate a mathematical function using synthetic data.  
