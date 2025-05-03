@@ -77,6 +77,14 @@ Evaluated the model's performance using **Accuracy**, **Precision**, **Recall**,
 
 [🔗 GitHub Repo](https://github.com/ibnsaud/NN-Binary-Classification)
 
+#### Maze Pathfinding with Search Algorithms – Graph Search and Route Planning
+
+Implemented classic pathfinding algorithms (BFS, DFS, A* and Jump Point Search) to solve mazes represented as grids.
+Used efficient data structures: Double-Linked List for stacks/queues and Binary Heap for priority queues.
+Visualized results and stored paths and performance metrics using Pandas and image exports using Pillow.
+
+[🔗 GitHub Repo](https://github.com/ibnsaud/ML-MazeSolver-RoutePlanning)
+
 ---
 
 ## 📫 Contacts
