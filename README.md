@@ -68,22 +68,28 @@ Saved the model and preprocessing parameters in **JSON** for loading model.
 Deployed the model with **FastAPI** and **Uvicorn**, exposing a REST API for predictions. 
 Evaluated the model's performance using **MSE**, **MAE** and **R²** metrics.
 
-[🔗 GitHub Repo](https://github.com/ibnsaud/NN-Regression-WebApp)
+[🔗 NN-Regression-WebApp](https://github.com/ibnsaud/NN-Regression-WebApp)
 
 #### Medical Data Classification with Neural Network - Binary Classification
 Built and trained a binary classifier using **Keras** on a medical dataset.  
 Saved the model and preprocessing parameters to **JSON** for loading and using pretrained model for inference.
 Evaluated the model's performance using **Accuracy**, **Precision**, **Recall**, **F2Score** and **Precision-Recall Curve** metrics.
 
-[🔗 GitHub Repo](https://github.com/ibnsaud/NN-Binary-Classification)
+[🔗 NN-Binary-Classification](https://github.com/ibnsaud/NN-Binary-Classification)
 
 #### Maze Pathfinding with Search Algorithms – Graph Search and Route Planning
 
-Implemented classic pathfinding algorithms (BFS, DFS, A* and Jump Point Search) to solve mazes represented as grids.
-Used efficient data structures: Double-Linked List for stacks/queues and Binary Heap for priority queues.
+Implemented classic pathfinding algorithms (**BFS**, **DFS**, **A*** and **Jump Point Search**) to solve mazes represented as grids.
+Implemented and Used efficient data structures: **Double-Linked List** for stacks/queues and **Binary Heap** for priority queues.
 Visualized results and stored paths and performance metrics using Pandas and image exports using Pillow.
 
-[🔗 GitHub Repo](https://github.com/ibnsaud/ML-MazeSolver-RoutePlanning)
+[🔗 ML-MazeSolver-RoutePlanning](https://github.com/ibnsaud/ML-MazeSolver-RoutePlanning)
+
+#### File Compression with Canonical Huffman Code – Data Compression Algorithm
+Implemented **Canonical Huffman coding** in **C** for compressing and decompressing ASCII files. Built frequency table and Huffman tree using a min-heap implemented from scratch, generated Canonical Huffman codes, and saved metadata for decompression. Developed a **command-line argument parser** to handle compression and decompression options with input/output file paths. Compiled the project using **Makefile** and processed files in chunks to handle large data efficiently.
+
+[🔗 Compression-Huffman-code](https://github.com/ibnsaud/Compression-Huffman-code)
+
 
 ---
 
