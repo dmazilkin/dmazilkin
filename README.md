@@ -47,6 +47,10 @@
 - Code versioning and collaboration via **GitLab**.
 - Maintained a **CI/CD pipeline** with **linters** and static analysis tools.
 
+**Key Achievement:**
+- Fully designed and implemented from scratch a **modular firmware** and Python **PC API** for the company's **Touchscreen Tester** device.  
+- Automated touchscreen testing on the production line, reducing manual effort and improving test consistency.  
+
 **Variant Management Tool Developer**  
 📍 NPX Semiconductors.
 🇨🇿 Brno, Czech Republic.
