@@ -39,7 +39,7 @@
 🗓️ May 2023 — December 2024.
 
 - Firmware development for STM32 Cortex M in compliance with **MISRA C**.
-- Development under **FreeRTOS**, **HAL**, and **Bare Metal**.
+- Development under **FreeRTOS**, **HAL** and **Bare Metal**.
 - Build system setup using **CMake**, **Makefile**.
 - Peripheral integration: **ADC**, **DAC**, **UART**, **USB**, **I2C** and **SPI**.
 - Communication systems using **HDLC** and **Protocol Buffers**.
@@ -49,7 +49,9 @@
 
 **Key Achievement:**
 - Fully designed and implemented from scratch a **modular firmware** and Python **PC API** for the company's **Touchscreen Tester** device.  
-- Automated touchscreen testing on the production line, reducing manual effort and improving test consistency.  
+- Automated touchscreen testing on the production line, reducing manual effort and improving test consistency.
+
+---
 
 **Variant Management Tool Developer**  
 📍 NPX Semiconductors.
