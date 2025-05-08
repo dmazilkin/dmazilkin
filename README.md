@@ -54,7 +54,7 @@
 ---
 
 **Variant Management Tool Developer**  
-📍 NPX Semiconductors.
+📍 NXP Semiconductors.
 🇨🇿 Brno, Czech Republic.
 🗓️ February 2025 — Present.
 
