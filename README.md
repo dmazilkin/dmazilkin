@@ -1,12 +1,8 @@
-# Hi, I'm Dmitrii 👋
-
-## About me
-
-👨‍🎓 **Education**:
+## Education:
   - Bachelor's degree: **Mechatronics**, Brno University of Technology, 2021-2024.
   - Master's degree: **Applied Informatics**, Brno University of Technology, 2024-2026.
 
-🦾 **Specializations**:
+## Specializations:
   - Embedded systems,
   - Machine Learning, Deep Learning, Data Science.
 
@@ -31,12 +27,10 @@
 
   <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a> <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a> <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/Uvicorn-121212?style=for-the-badge&logo=uvicorn&logoColor=white" /></a> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 
-## 💼 Work Experience
+## Work Experience
 
 **Embedded Software Engineer**  
-📍 Bender Robotics.
-🇨🇿 Brno, Czech Republic. 
-🗓️ May 2023 — December 2024.
+*Bender Robotics. May 2023 — December 2024.*
 
 - Firmware development for STM32 Cortex M in compliance with **MISRA C**.
 - Development under **FreeRTOS**, **HAL** and **Bare Metal**.
@@ -54,9 +48,7 @@
 ---
 
 **Variant Management Tool Developer**  
-📍 NXP Semiconductors.
-🇨🇿 Brno, Czech Republic.
-🗓️ February 2025 — Present.
+*NXP Semiconductors. February 2025 — Present.*
 
 - R&D in **Product Line Engineering** following the **V-model** development process.  
 - Development of **Feature Models** and **Variants** using **pure::variants** and **Eclipse**.
@@ -66,7 +58,7 @@
 
 ---
 
-### 👨‍💻 Personal Projects
+### Personal Projects
 
 #### Function Approximation and Deployment with Neural Network – Regression
 Trained a neural network to approximate a mathematical function using synthetic data.  
