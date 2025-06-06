@@ -88,7 +88,7 @@ Implemented **Canonical Huffman coding** in **C** for compressing and decompress
 
 [🔗 Compression-Huffman-code](https://github.com/dmazilkin/Compression-Huffman-code)
 
-TSP Solver – Metaheuristic Algorithms for the Traveling Salesman Problem
+#### TSP Solver – Metaheuristic Algorithms for the Traveling Salesman Problem
 
 Implemented **Genetic Algorithm** and **Simulated Annealing** in C++ for solving the TSP. **Applied Object-Oriented Programming** and the **Strategy Design Pattern** to enable modular algorithm selection via a **common interface**. In Simulated Annealing, used swap for neighbor generation at high temperatures and 2-opt at lower temperatures for better refinement. Designed a **flexible architecture** with a TSPContext class managing solver strategies and an abstract TSPSolver base class. Supported specific **configurable runs**, **file-based input/output**, and built the project with a **Makefile**.
 
