@@ -60,39 +60,21 @@
 
 ### Personal Projects
 
-#### Function Approximation and Deployment with Neural Network – Regression
-Trained a neural network to approximate a mathematical function using synthetic data.  
-Saved the model and preprocessing parameters in **JSON** for loading model.
-Deployed the model with **FastAPI** and **Uvicorn**, exposing a REST API for predictions. 
-Evaluated the model's performance using **MSE**, **MAE** and **R²** metrics.
+### Algotihms and Data Structures
 
-[🔗 NN-Regression-WebApp](https://github.com/dmazilkin/NN-Regression-WebApp)
+[**Maze Pathfinding with Search Algorithms – Graph Search and Route Planning**](https://github.com/dmazilkin/ML-MazeSolver-RoutePlanning) - Implemented classic pathfinding algorithms (**BFS**, **DFS**, **A*** and **Jump Point Search**) to solve mazes represented as grids. Implemented and Used efficient data structures: **Double-Linked List** for stacks/queues and **Binary Heap** for priority queues. Visualized results and stored paths and performance metrics using Pandas and image exports using Pillow.
 
-#### Medical Data Classification with Neural Network - Binary Classification
-Built and trained a binary classifier using **Keras** on a medical dataset.  
-Saved the model and preprocessing parameters to **JSON** for loading and using pretrained model for inference.
-Evaluated the model's performance using **Accuracy**, **Precision**, **Recall**, **F2Score** and **Precision-Recall Curve** metrics.
+[**File Compression with Canonical Huffman Code – Data Compression Algorithm**](https://github.com/dmazilkin/Compression-Huffman-code) - Implemented **Canonical Huffman coding** in **C** for compressing and decompressing ASCII files. Built frequency table and Huffman tree using a min-heap implemented from scratch, generated Canonical Huffman codes, and saved metadata for decompression. Developed a **command-line argument parser** to handle compression and decompression options with input/output file paths. Compiled the project using **Makefile** and processed files in chunks to handle large data efficiently.
 
-[🔗 NN-Binary-Classification](https://github.com/dmazilkin/NN-Binary-Classification)
+[**TSP Solver – Metaheuristic Algorithms for the Traveling Salesman Problem**](https://github.com/dmazilkin/TSP-Solver) - Implemented **Genetic Algorithm** and **Simulated Annealing** in **C++** for solving the TSP. **Applied Object-Oriented Programming** and the **Strategy Design Pattern** to enable modular algorithm selection via a **common interface**. In Simulated Annealing, used swap for neighbor generation at high temperatures and 2-opt at lower temperatures for better refinement. Designed a **flexible architecture** with a TSPContext class managing solver strategies and an abstract TSPSolver base class. Supported specific **configurable runs**, **file-based input/output**, and built the project with a **Makefile**.
 
-#### Maze Pathfinding with Search Algorithms – Graph Search and Route Planning
+#### Machine Learning Projects
 
-Implemented classic pathfinding algorithms (**BFS**, **DFS**, **A*** and **Jump Point Search**) to solve mazes represented as grids.
-Implemented and Used efficient data structures: **Double-Linked List** for stacks/queues and **Binary Heap** for priority queues.
-Visualized results and stored paths and performance metrics using Pandas and image exports using Pillow.
+Machine Learning algorithms implemented from scratch: [Linear Regression](https://github.com/dmazilkin/ML-LinearRegression), [Logistic Regression](https://github.com/dmazilkin/ML-LogisticRegression).
 
-[🔗 ML-MazeSolver-RoutePlanning](https://github.com/dmazilkin/ML-MazeSolver-RoutePlanning)
+[**Function Approximation and Deployment with Neural Network – Regression**](https://github.com/dmazilkin/NN-Regression-WebApp) - Trained a neural network to approximate a mathematical function using synthetic data. Saved the model and preprocessing parameters in **JSON** for loading model. Deployed the model with **FastAPI** and **Uvicorn**, exposing a REST API for predictions. Evaluated the model's performance using **MSE**, **MAE** and **R²** metrics.
 
-#### File Compression with Canonical Huffman Code – Data Compression Algorithm
-Implemented **Canonical Huffman coding** in **C** for compressing and decompressing ASCII files. Built frequency table and Huffman tree using a min-heap implemented from scratch, generated Canonical Huffman codes, and saved metadata for decompression. Developed a **command-line argument parser** to handle compression and decompression options with input/output file paths. Compiled the project using **Makefile** and processed files in chunks to handle large data efficiently.
-
-[🔗 Compression-Huffman-code](https://github.com/dmazilkin/Compression-Huffman-code)
-
-#### TSP Solver – Metaheuristic Algorithms for the Traveling Salesman Problem
-
-Implemented **Genetic Algorithm** and **Simulated Annealing** in C++ for solving the TSP. **Applied Object-Oriented Programming** and the **Strategy Design Pattern** to enable modular algorithm selection via a **common interface**. In Simulated Annealing, used swap for neighbor generation at high temperatures and 2-opt at lower temperatures for better refinement. Designed a **flexible architecture** with a TSPContext class managing solver strategies and an abstract TSPSolver base class. Supported specific **configurable runs**, **file-based input/output**, and built the project with a **Makefile**.
-
-[🔗 TSP-Solver](https://github.com/dmazilkin/TSP-Solver)
+[**Data Classification with Neural Network - Classification**](https://github.com/dmazilkin/NN-Binary-Classification) - Built and trained a binary classifier using **Keras** on a medical dataset. Saved the model and preprocessing parameters to **JSON** for loading and using pretrained model for inference. Evaluated the model's performance using **Accuracy**, **Precision**, **Recall**, **F2Score** and **Precision-Recall Curve** metrics.
 
 ---
 
