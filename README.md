@@ -60,7 +60,7 @@
 
 ## Personal Projects
 
-### Algotihms and Data Structures
+### Algotihms and Data Structures Projects
 
 [**Maze Pathfinding with Search Algorithms – Graph Search and Route Planning**](https://github.com/dmazilkin/ML-MazeSolver-RoutePlanning) - Implemented classic pathfinding algorithms (**BFS**, **DFS**, **A*** and **Jump Point Search**) to solve mazes represented as grids. Implemented and Used efficient data structures: **Double-Linked List** for stacks/queues and **Binary Heap** for priority queues. Visualized results and stored paths and performance metrics using Pandas and image exports using Pillow.
 
