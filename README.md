@@ -70,7 +70,7 @@
 
 ### Machine Learning Projects
 
-Machine Learning algorithms implemented from scratch: [Linear Regression](https://github.com/dmazilkin/ML-LinearRegression), [Logistic Regression](https://github.com/dmazilkin/ML-LogisticRegression).
+Machine Learning algorithms implemented from scratch: [Linear Regression](https://github.com/dmazilkin/ML-LinearRegression), [Logistic Regression](https://github.com/dmazilkin/ML-LogisticRegression), [Support Vector Machine](https://github.com/dmazilkin/ML-SVM), [k-Nearest Neighbors](https://github.com/dmazilkin/ML-kNN)
 
 [**Function Approximation and Deployment with Neural Network – Regression**](https://github.com/dmazilkin/NN-Regression-WebApp) - Trained a neural network to approximate a mathematical function using synthetic data. Saved the model and preprocessing parameters in **JSON** for loading model. Deployed the model with **FastAPI** and **Uvicorn**, exposing a REST API for predictions. Evaluated the model's performance using **MSE**, **MAE** and **R²** metrics.
 
