@@ -1,83 +1,60 @@
-## Education:
-  - Bachelor's degree: **Mechatronics**, Brno University of Technology, 2021-2024.
-  - Master's degree: **Applied Informatics**, Brno University of Technology, 2024-2026.
-
-## Specializations:
-  - Embedded systems,
-  - Machine Learning, Deep Learning, Data Science.
-
-## Tech stack
-
-### Embedded systems:
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /> <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" /> <img src="https://img.shields.io/badge/FreeRTOS-2C9AB7?style=for-the-badge&logo=freertos&logoColor=white" />
-<img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Protobuf-3362AF?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/HDLC-8B0000?style=for-the-badge&logo=protocols&logoColor=white" />
-
-
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=beaglebone&logoColor=white" />
-
-### Machine Learning, Deep Learning, Data Science:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-<a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a> <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a> <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
-<a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-<a href="https://keras.io" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /></a> <a href="https://tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>  
-
-  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a> <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a> <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/Uvicorn-121212?style=for-the-badge&logo=uvicorn&logoColor=white" /></a> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-
-## Work Experience
-
-**Embedded Software Engineer**  
-*Bender Robotics. May 2023 — December 2024.*
-
-- Firmware development for STM32 Cortex M in compliance with **MISRA C**.
-- Development under **FreeRTOS**, **HAL** and **Bare Metal**.
-- Build system setup using **CMake**, **Makefile**.
-- Peripheral integration: **ADC**, **DAC**, **UART**, **USB**, **I2C** and **SPI**.
-- Communication systems using **HDLC** and **Protocol Buffers**.
-- Unit testing using **Unity Test Framework**.
-- Code versioning and collaboration via **GitLab**.
-- Maintained a **CI/CD pipeline** with **linters** and static analysis tools.
-
-**Key Achievement:**
-- Fully designed and implemented from scratch a **modular firmware** and Python **PC API** for the company's **Touchscreen Tester** device.  
-- Automated touchscreen testing on the production line, reducing manual effort and improving test consistency.
+Software Engineer specializing in **Embedded Systems, Automated Release Engineering & Configuration Management**.
 
 ---
 
-**Variant Management Tool Developer**  
-*NXP Semiconductors. February 2025 — Present.*
-
-- R&D in **Product Line Engineering** following the **V-model** development process.  
-- Development of **Feature Models** and **Variants** using **pure::variants** and **Eclipse**.
-- Integration of **IBM DOORS Next** and **IBM ELM RM** to automate the flow of requirements into variant models.  
-- Automation of configurations via **pure::variants JavaScript API**, **Eclipse console**, **CMake**, **Makefile** and **Python**.  
-- Task and code management using **Jira** and **Bitbucket**.
+### Key Achievements
+- **increased testing throughput by 5x** through robotic integration, 
+- product variant **deployment time reduced by 60%** by implementing feature-based code generation, 
+- **automated 90% of release documentation**.
 
 ---
 
-## Personal Projects
+### Technical Expertise
 
-### Algotihms and Data Structures Projects
-
-[**Maze Pathfinding with Search Algorithms – Graph Search and Route Planning**](https://github.com/dmazilkin/ML-MazeSolver-RoutePlanning) - Implemented classic pathfinding algorithms (**BFS**, **DFS**, **A*** and **Jump Point Search**) to solve mazes represented as grids. Implemented and Used efficient data structures: **Double-Linked List** for stacks/queues and **Binary Heap** for priority queues. Visualized results and stored paths and performance metrics using Pandas and image exports using Pillow.
-
-[**File Compression with Canonical Huffman Code – Data Compression Algorithm**](https://github.com/dmazilkin/Compression-Huffman-code) - Implemented **Canonical Huffman coding** in **C** for compressing and decompressing ASCII files. Built frequency table and Huffman tree using a min-heap implemented from scratch, generated Canonical Huffman codes, and saved metadata for decompression. Developed a **command-line argument parser** to handle compression and decompression options with input/output file paths. Compiled the project using **Makefile** and processed files in chunks to handle large data efficiently.
-
-[**TSP Solver – Metaheuristic Algorithms for the Traveling Salesman Problem**](https://github.com/dmazilkin/TSP-Solver) - Implemented **Genetic Algorithm** and **Simulated Annealing** in **C++** for solving the TSP. **Applied Object-Oriented Programming** and the **Strategy Design Pattern** to enable modular algorithm selection via a **common interface**. In Simulated Annealing, used swap for neighbor generation at high temperatures and 2-opt at lower temperatures for better refinement. Designed a **flexible architecture** with a TSPContext class managing solver strategies and an abstract TSPSolver base class. Supported specific **configurable runs**, **file-based input/output**, and built the project with a **Makefile**.
-
-### Machine Learning Projects
-
-Machine Learning algorithms implemented from scratch: [Linear Regression](https://github.com/dmazilkin/ML-LinearRegression), [Logistic Regression](https://github.com/dmazilkin/ML-LogisticRegression), [Support Vector Machine](https://github.com/dmazilkin/ML-SVM), [k-Nearest Neighbors](https://github.com/dmazilkin/ML-kNN).
-
-[**Function Approximation and Deployment with Neural Network – Regression**](https://github.com/dmazilkin/NN-Regression-WebApp) - Trained a neural network to approximate a mathematical function using synthetic data. Saved the model and preprocessing parameters in **JSON** for loading model. Deployed the model with **FastAPI** and **Uvicorn**, exposing a REST API for predictions. Evaluated the model's performance using **MSE**, **MAE** and **R²** metrics.
-
-[**Data Classification with Neural Network - Classification**](https://github.com/dmazilkin/NN-Binary-Classification) - Built and trained a binary classifier using **Keras** on a medical dataset. Saved the model and preprocessing parameters to **JSON** for loading and using pretrained model for inference. Evaluated the model's performance using **Accuracy**, **Precision**, **Recall**, **F2Score** and **Precision-Recall Curve** metrics.
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Languages** | C, Python, SQL |
+| **Embedded Systems** | Bare-metal, HAL/LL, FreeRTOS, Embedded Linux |
+| **Systems Engineering** | Product Line Engineering, Variant Management, Feature Modeling |
+| **DSP** | Spectral Analysis (FFT, Spectrograms), FIR/IIR |
+| **AI** | Classic ML (Scikit-learn), Neural Networks (PyTorch), Optimization Algorithms |
+| **Tools** | CMake, Makefile, Git, Docker, Unit Testing (C), MISRA (C), LaTeX, Bash |
 
 ---
 
-## 📫 Contacts
+### Professional Background
 
-- [Linkedin](https://www.linkedin.com/in/dmitrii-mazilkin-866807337/)
+* **NXP Semiconductors** | Embedded R&D Intern | *Automated Release Engineering & Configuration Management*
+* **Bender Robotics** | Embedded Intern | *Firmware Development & Mechatronic Control*
+
+---
+
+### Education
+
+* **MSc in Applied Informatics and Automation** | Brno University of Technology (2024 – 2027)
+* **BSc in Mechatronics** | Brno University of Technology (2020 – 2024)
+
+---
+
+### Projects
+
+### DSP | Audio Identification | Music Information Retrieval (MIR) System
+
+- **Core Technology:** Signal Processing, Spectral Analysis, Python.
+- **Feature Extraction:** Developed a system to identify 5-second noisy audio clips in a 700+ track database by converting raw WAV signals into **Spectrograms**.
+- **Algorithm Design:** Implemented spectral normalization and noise reduction techniques to handle environmental interference.
+- **Pattern Matching:** Designed a similarity engine using **cross-correlation** and **similarity matrices**, achieving high Top-1 and Top-5 recognition accuracy.
+
+---
+
+### Embedded Systems | System Architecture | Automated Tests
+
+- **System Architecture:** Developed a **PC-driven** robotic system using a modular, layered C firmware for **STM32G491RE**.
+- **Firmware Quality:** Adhered to **MISRA C** coding standards for safety and reliability; implemented **Unit Testing in C** to validate core motion and logic modules.
+- **Communication Stack:** Engineered a robust PC-to-MCU interface via **USB (Virtual COM)** using **HDLC framing** and **Protobuf (Nanopb)** with **DMA** for zero-copy data handling.
+- **Mechatronics & Control:** Implemented 3-axis stepper control and force-sensing via ADC; automated statistical profiling using **NumPy**, improving positioning precision by **85%**.
+
+---
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/dmitrii-mazilkin-866807337/) • [Email](mailto:dim.mazilkin@gmail.com) • Brno, Czech Republic | Brno, Czech Republic
